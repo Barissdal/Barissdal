@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi, I am Baris.
 
 <!--
 **Barissdal/Barissdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Directore General of Risk Management 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-  currently working at Directore General of Risk Management 
+-  graduated from Statistics and Computer Science (Bachelor's) , Biostatistics (Master)
